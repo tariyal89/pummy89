@@ -1,5 +1,0 @@
-hello
-
-this is my first file, which i have created to test into my test enviroment.
-
-Please check this out.
